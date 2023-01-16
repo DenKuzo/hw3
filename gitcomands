@@ -1,0 +1,16 @@
+git init
+git remote add origin ""
+create .gitignore
+git add .
+git commit -m hw''
+git push origin master/main
+git rm -- cached ""
+git rm -- cached -r name od dir
+
+git branch
+gir branch "name"
+git checkouk "name"
+
+git checkout -b "name"
+gir remote remove origin
+git merge name to branch
